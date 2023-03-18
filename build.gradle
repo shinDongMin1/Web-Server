@@ -6,7 +6,7 @@ plugins {
 
 group = 'hello'
 version = '0.0.1-SNAPSHOT'
-sourceCompatibility = '16'
+sourceCompatibility = '1.8'
 
 repositories {
 	mavenCentral()	//공개된 사이트Url에서 밑에 있는 라이브러리를 제공해라
